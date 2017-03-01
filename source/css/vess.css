@@ -1,0 +1,86 @@
+    @media (min-width: 600px) {
+        .vess-center {
+            margin-left: 12.5%;
+        }
+    }
+    
+    @media (min-height: 600px) {
+        .vess-center {
+            margin-top: 10%;
+        }
+    }
+    
+    .vess-titel {
+
+        font-weight: bold;
+        font-size: x-large;
+        font-style: normal;
+        font-variant: small-caps;
+	font-family: "Amiko", serif;
+    }
+
+    .vess-text {
+
+        font-size: medium;
+        font-style: normal;
+	font-family: "Amiko", serif;
+    }
+
+    .vess-button {
+        z-index: 3;
+        font-weight: bold;
+        font-size: x-large;
+        font-style: normal;
+	font-family: "Amiko", serif;
+        font-variant: small-caps;
+	margin: 4px;
+	padding: 5px;
+    }
+    
+    .style_prevu_kit   {
+	
+	}
+    .style_prevu_kit img   {
+
+        opacity: 0.3;
+        -webkit-transition: all 200ms ease-in;
+        -webkit-transform: scale(1);
+        -ms-transition: all 200ms ease-in;
+        -ms-transform: scale(1);
+        -moz-transition: all 200ms ease-in;
+        -moz-transform: scale(1);
+        transition: all 200ms ease-in;
+        transform: scale(1);
+
+    }
+    
+    .style_prevu_kit:hover {
+        opacity: 1;
+        box-shadow: 0px 0px 50px #555555;
+        z-index: 2;
+        -webkit-transition: all 200ms ease-in;
+        -webkit-transform: scale(1.1);
+        -ms-transition: all 200ms ease-in;
+        -ms-transform: scale(1.1);
+        -moz-transition: all 200ms ease-in;
+        -moz-transform: scale(1.1);
+        transition: all 200ms ease-in;
+        transform: scale(1.1);
+	
+    }
+
+    .style_prevu_kit:hover img {
+        opacity: 1;
+    }
+    
+    .style_prevu_kit:hover .vess-text {
+        font-weight: bold;
+        font-size: x-large;
+        font-style: normal;
+        font-variant: small-caps;
+	color: #000000;
+	background-color: white;
+	opacity: 0.6;
+	margin: 4px;
+	padding: 5px;
+    }
