@@ -6,7 +6,7 @@
 menu:
   Home: /index_landing.html
   Security Training: /categories/SecTraining
-  Machine Learging in Security: /categories/AI/       
+  Machine Learging in Security: /categories/AI-Firewall/       
   Blog: /categories/blog    
   All Categories: categories
   Tags: tags
@@ -57,15 +57,11 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
+  At: mailto:info@secdump.io        
   Github: https://github.com/tzvetkov75
-  Weibo: http://secdump.io
-  Twitter: 
-  Facebook: 
-  Google-plus: 
-  Instagram: 
-  Pinterest: 
-  Flickr: 
-
+  Firefox: http://secdump.io
+  LinkedIn: https://www.linkedin.com/in/tzvetkov75
+  
 
 # Search
 search:
