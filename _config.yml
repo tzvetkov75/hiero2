@@ -5,6 +5,7 @@
 # Header Menu
 menu:
   Home: /index_landing.html
+  Overview All: /index.html
   Security Training: /categories/SecTraining
   Machine Learging in Security: /categories/AI-Firewall/       
   Blog: /categories/blog    
@@ -36,7 +37,7 @@ avatar:
 about_big_image: ./images/mount.jpg
 
 # Homepage thumbnail
-random_thumb: true
+random_thumb: false
 
 # Content
 fancybox: true
@@ -71,7 +72,7 @@ search:
 
 
 # comment ShortName, you can choose only ONE to display.
-duoshuo_shortname: iTimeTraveler
+duoshuo_shortname: tzvetkov75
 disqus_shortname:
 
 
@@ -90,7 +91,7 @@ index_widgets:
 
 # widget behavior
 archive_type: 'monthly'
-show_count: true
+show_count: false
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/

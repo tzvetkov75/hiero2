@@ -269,6 +269,7 @@ object {
 .site-title a {
 	color: #fff;
 	text-decoration: none;
+	text-transform: none;
 	}
 .site-description {
 	color: #999;
