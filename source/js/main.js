@@ -3,7 +3,9 @@
 var hasCurrent = false;
 $('#main-nav > li').each(function () {
 	var url = window.location.href;
-	if(url.toUpperCase().indexOf($(this).text().trim().toUpperCase()) != -1){
+	var el=this.childNodes[1].href;
+	console.log("Test 1 "+ url + " = "+el); 
+	if(url.indexOf(el) != -1){
 		$(this).addClass('current-menu-item current_page_item');
 		hasCurrent = true;
 	} else {
@@ -38,6 +40,9 @@ if (toc != null) {
 
 
 $('#main-navigation').on('click', function(){
+
+    console.log("Test 3");
+
     if ($('#main-navigation').hasClass('main-navigation-open')){
       $('#main-navigation').removeClass('main-navigation-open');
     } else {

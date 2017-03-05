@@ -3,15 +3,17 @@
 # ---------------------------------------------------------------
 
 # Header Menu
+
 menu:
   Home: /index_landing.html
-  Overview All: /index.html
+  Overview all: /index.html
   Security Training: /categories/SecTraining
-  Machine Learging in Security: /categories/AI-Firewall/       
+  Machine Learging in Security: /categories/AI-Firewall       
   Blog: /categories/blog    
-  All Categories: categories
-  Tags: tags
-  About: about
+  All Categories: categories/index.html
+  Tags: /tags
+  About: /about/
+
 rss: /atom.xml
 
 since: 2013
