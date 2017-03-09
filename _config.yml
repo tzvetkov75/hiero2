@@ -36,7 +36,7 @@ avatar:
   
 
 # AboutPage background
-about_big_image: ./images/mount.jpg
+about_big_image: 
 
 # Homepage thumbnail
 random_thumb: false

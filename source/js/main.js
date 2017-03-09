@@ -4,7 +4,7 @@ var hasCurrent = false;
 $('#main-nav > li').each(function () {
 	var url = window.location.href;
 	var el=this.childNodes[1].href;
-	console.log("Test 1 "+ url + " = "+el); 
+//	console.log("Test 1 "+ url + " = "+el); 
 	if(url.indexOf(el) != -1){
 		$(this).addClass('current-menu-item current_page_item');
 		hasCurrent = true;
@@ -14,7 +14,7 @@ $('#main-nav > li').each(function () {
 });
 
 if (!hasCurrent) {
-	$('#main-nav > li:first').addClass('current-menu-item current_page_item');
+//	$('#main-nav > li:first').addClass('current-menu-item current_page_item');
 }
 
 

@@ -16,7 +16,7 @@ Tags: black, white, red, two-columns, fixed-layout, threaded-comments, full-widt
 body {
 	color: #333;
 	font-weight: 400;
-	font-family: Arial, Helvetica, Microsoft Yahei;
+	font-family: Amiko, Arial, Helvetica, Microsoft Yahei;
 	line-height: 1.8;
 	background: #fff;
 	}
@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 1.25em 0 .5em;
 	color: #222;
 	font-weight: 700;
-	font-family: "Yanone Kaffeesatz", "华文中宋", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "华文中宋", Arial, Helvetica, sans-serif;
 	line-height: 1.2em;
 	}
 h1 {
@@ -137,7 +137,7 @@ input[type="submit"] {
 	color: #fff;
 	font-size: 1.2em;
 	font-weight: 400;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	line-height: 30px;
 	text-transform: uppercase;
 	background: #060608;
@@ -262,7 +262,7 @@ object {
 .site-title {
 	margin: 0;
 	font-size: 4.25em;
-	font-family: "Yanone Kaffeesatz", "华文中宋", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "华文中宋", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1;
 	}
@@ -273,7 +273,7 @@ object {
 	}
 .site-description {
 	color: #999;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	}
@@ -341,7 +341,7 @@ object {
 	display: block;
 	color: #666;
 	font-size: 1em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Amiko, Arial, Helvetica, sans-serif;
 	}
 #main-navigation .sf-menu > ul > li:last-child:after {
 	display: none;
@@ -356,9 +356,9 @@ object {
 	margin: 0 -2px 0 0;
 	padding: 0 20px;
 	color: #fff;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-weight: 400;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 	line-height: 50px;
@@ -410,7 +410,7 @@ object {
 	color: #eb2121;
 	font-size: 1.2em;
 	font-weight: 400;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 	line-height: 50px;
@@ -551,7 +551,7 @@ object {
 	color: #fff;
 	font-size: 1.4em;
 	font-weight: 400;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-decoration: none;
 	line-height: 1;
 	background: #ff2828;
@@ -634,7 +634,7 @@ body.search .page .entry-footer {
 	margin: 0 20px 0 0;
 	color: #999;
 	font-size: .9em;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 2px;
@@ -709,7 +709,7 @@ body.search .page .entry-footer {
 	color: #fff;
 	font-size: 1.3em;
 	font-weight: 400;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	line-height: 26px;
@@ -754,7 +754,7 @@ body.search .page .entry-footer {
 .comment-list li.comment .comment-author .fn {
 	color: #999;
 	font-size: 1.2em;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	}
 .comment-list li.comment .comment-author .fn a {
@@ -782,7 +782,7 @@ body.search .page .entry-footer {
 	color: #ff2828;
 	font-size: .9em;
 	font-weight: 300;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	letter-spacing: 1px;
@@ -820,7 +820,7 @@ body.search .page .entry-footer {
 	}
 #commentform label {
 	font-size: 1.2em;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	}
@@ -901,7 +901,7 @@ body.search .page .entry-footer {
 	padding: 5px 15px;
 	color: #999;
 	font-size: 1.3em;
-	font-family: "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
+	font-family: Oswald, "Yanone Kaffeesatz", "方正姚体", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	line-height: 30px;
